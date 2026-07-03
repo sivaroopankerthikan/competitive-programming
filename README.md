@@ -18,7 +18,7 @@ Welcome! This repository serves as a centralized hub for my competitive programm
 
 
 
-\## 🛠️ Languages \& Tools
+\## 🛠️ Languages & Tools
 
 
 
