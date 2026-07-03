@@ -1,4 +1,4 @@
-\# Competitive Programming \& Coursework
+\# Competitive Programming \& Courseworks
 
 
 
