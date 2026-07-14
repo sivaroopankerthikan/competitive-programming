@@ -1,0 +1,10 @@
+# Compiled Application Binary Outputs
+*.exe
+*.o
+*.out
+watermelon
+basic_io
+test
+
+# Automated Testing Environments
+.vscode/
